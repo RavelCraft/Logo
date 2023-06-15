@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Back_1_);}
+	.st1{font-family:'BigShouldersDisplay-Bold';}
+	.st2{font-size:228.9967px;}
+	.st3{letter-spacing:-4.8;}
+</style>
+<linearGradient id="Back_1_" gradientUnits="userSpaceOnUse" x1="956.5204" y1="7.5925" x2="963.4706" y2="1069.577" gradientTransform="matrix(1 0 0 -1 0 1079.2756)">
+	<stop  offset="0" style="stop-color:#FD6B5E"/>
+	<stop  offset="1" style="stop-color:#8788B1"/>
+</linearGradient>
+<rect id="Back" y="0" class="st0" width="1920" height="1080"/>
+<g id="Bars">
+	<polygon points="454.3,300.2 859.7,300.4 859.7,522.7 454.3,522.7 	"/>
+	<path d="M419.8,779.8c-61.5,0-121.6,0-183.1,0c0-159.5,0-318.3,0-478.4c60.7,0,121.4,0,183.1,0
+		C419.8,460.5,419.8,619.5,419.8,779.8z"/>
+	<polygon points="454.3,558.3 456.1,779.8 640,779.8 640,560.1 	"/>
+	<path d="M859.4,779.8c-60.9,0-121.4,0-182.8,0c0-73.5,0-146.7,0-220.5c60.9,0,121.4,0,182.8,0C859.4,632.6,859.4,705.6,859.4,779.8
+		z"/>
+</g>
+<text transform="matrix(1.2609 0 0 1 1132.3185 519.6105)" class="st1 st2 st3">RAVEL</text>
+<text transform="matrix(1.2609 0 0 1 1129.4298 751.88)" class="st1 st2 st3">CRAFT</text>
+</svg>
